@@ -8,7 +8,7 @@ This is the repo of the final project of the Applied Plotting, Charting & Data R
 - The matplotlib stack was used to quickly shows the reader the answer of the question, based on [Alberto Cairo's principles for good data visualization](https://towardsdatascience.com/data-visualization-and-truthful-art-324b13a2ad34).
 
 <p align="center">
-  <img  src="images/students.png">
+  <img  src="images/both.png">
 </p>
 
 
