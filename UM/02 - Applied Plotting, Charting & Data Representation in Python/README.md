@@ -25,5 +25,6 @@ This is the repo in which I post my learning journey in Applied Plotting, Charti
 
 
 # Certificate 
-The course was successfully concluded on .
+The course was successfully concluded on 16/08/2021.
 
+![](images/certificate.png)
