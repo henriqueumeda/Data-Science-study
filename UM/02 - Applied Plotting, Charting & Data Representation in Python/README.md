@@ -24,6 +24,10 @@ This is the repo in which I post my learning journey in Applied Plotting, Charti
 - Seaborn
 
 
+# Project:
+- In this course, a data visualization project was developed about the evolution of racial diversity of workers in São Paulo's municipal education system.
+- [Racial Diversity in São Paulo's Municipal Education System](https://github.com/henriqueumeda/Data-Science-study/tree/main/UM/02%20-%20Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/assignments/assignment4)
+
 # Certificate 
 The course was successfully concluded on 16/08/2021.
 
