@@ -28,7 +28,6 @@ This is the repo in which I post my learning journey in Applied Machine Learning
     - Logistic Regression
     - SVM
     - Decision Trees
-    - Precision Recall and ROC Curves
     - Naive Bayes
     - Random Forest
     - Gradient Boosted Decision Trees
@@ -40,6 +39,12 @@ This is the repo in which I post my learning journey in Applied Machine Learning
     - K-Means
     - Agglomerative Clustering
     - DBSCAN
+  - Evaluation
+    - Confusion Matrices
+    - Decision Functions
+    - Precision Recall Curves
+    - ROC Curves
+    - AUC
 
 
 # Project
