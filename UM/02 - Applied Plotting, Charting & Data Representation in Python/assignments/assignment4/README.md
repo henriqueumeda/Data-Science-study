@@ -1,4 +1,4 @@
-![](../../images/um-logo.png)
+![](../../../images/um-logo.png)
 
 This is the repo of the final project of the Applied Plotting, Charting & Data Representation in Python course, provided by University of Michigan.
 
