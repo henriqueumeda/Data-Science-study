@@ -60,9 +60,14 @@ def plot_labelled_scatter(X, y, class_labels):
     color_array = ['#FFFF00', '#00AAFF', '#000000', '#FF00AA']
     cmap_bold = ListedColormap(color_array)
     bnorm = BoundaryNorm(numpy.arange(0, num_labels + 1, 1), ncolors=num_labels)
+    
+    colors=[]
+    for row in range(len(y)):
+        colors.append(color_array[y.iloc[row][0]])
+    
     plt.figure()
 
-    plt.scatter(X[:, 0], X[:, 1], s=65, c=y, cmap=cmap_bold, norm = bnorm, alpha = 0.40, edgecolor='black', lw = 1)
+    plt.scatter(X[:, 0], X[:, 1], s=65, c=colors, cmap=cmap_bold, norm = bnorm, alpha = 0.40, edgecolor='black', lw = 1)
 
     plt.xlim(x_min, x_max)
     plt.ylim(y_min, y_max)
