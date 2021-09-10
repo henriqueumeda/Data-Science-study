@@ -51,6 +51,7 @@ def plot_feature_importances(clf, feature_names):
     plt.yticks(numpy.arange(c_features), feature_names)
 
 def plot_labelled_scatter(X, y, class_labels):
+    y = pd.DataFrame(y)
     num_labels = len(class_labels)
 
     x_min, x_max = X[:, 0].min() - 1, X[:, 0].max() + 1
