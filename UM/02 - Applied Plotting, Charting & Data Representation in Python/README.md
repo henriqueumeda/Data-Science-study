@@ -12,6 +12,7 @@ This is the repo in which I post my learning journey in Applied Plotting, Charti
 
 # Repository
 - Notebooks - The folder with notebooks that show all the processes I took during classes
+- csv - The folder with all csv files used during classes
 - images - The folder with all images used during classes and in the repo Readme
 - assignments - The folder with all files used in the week assignments resolutions
 
