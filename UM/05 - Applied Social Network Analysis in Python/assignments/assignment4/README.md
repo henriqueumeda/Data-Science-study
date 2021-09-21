@@ -12,7 +12,8 @@ This is the repo of the final project of the Applied Social Network Analysis in 
   - Small World with high probability of rewiring ('SW_H')
 <br>
 <p align="center">
-  <img  src="images/both.png">
+  <img  src="images/both.png"><br>
+  <em>Left chart: SW_L | Right chart: PA</em>
 </p>
 
 ---
