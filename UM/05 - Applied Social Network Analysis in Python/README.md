@@ -26,6 +26,9 @@ This is the repo in which I post my learning journey in Applied Social Network A
 - Scikit-Learn
 - Networkx
 
+# Project
+- In this course, a project to predict the probability of an employee receiving a management position salary and the possibility of new connections between employees being made.
+- [Salary and New Connections Company Predictions](https://github.com/henriqueumeda/Data-Science-study/tree/main/UM/05%20-%20Applied%20Social%20Network%20Analysis%20in%20Python/assignments/assignment4)
 
 # Certificate 
 The course was successfully concluded on 21/09/2021.
