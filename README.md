@@ -5,3 +5,4 @@ Repository dedicated to data science studies
 # Courses
 
  - [University of Michigan](https://github.com/henriqueumeda/Data-Science-study/tree/main/UM)
+ - [University of Washington](https://github.com/henriqueumeda/Data-Science-study/tree/main/UW)
