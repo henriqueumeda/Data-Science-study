@@ -1,6 +1,6 @@
-
-![](../images/uw-logo.png)
-
+<p align="center">
+  <img src="../images/uw-logo.png">
+</p>
 
 This is the repo in which I post my learning journey in Machine Learning Foundations: A Case Study Approach course, provided by University of Washington.
 
